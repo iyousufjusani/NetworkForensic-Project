@@ -66,7 +66,7 @@ python3 detect.py
 
 192.168.2.20 → 12 attempts
 104.18.32.47 → 20 attempts
-⚠️ - Possible brute-force attack from 104.18.32.47
+⚠️ Possible brute-force attack from 104.18.32.47
 ```
 
 ---
@@ -111,9 +111,9 @@ NetworkForensic-Project/
 ---
 
 ## 👨‍💻 Contributors
-- Muhammad Yousuf Jusani (04649338)
-- Usama Khalid (0443145)
-- Nir Haramati (0474218)
+- **Muhammad Yousuf Jusani (04649338)**
+- **Usama Khalid (0443145)**
+- **Nir Haramati (0474218)**
 
 ---
 
