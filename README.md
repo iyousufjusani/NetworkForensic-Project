@@ -113,4 +113,4 @@ NetworkForensic-Project/
 ---
 
 ## 📌 Note
-This project is developed for educational purposes in Network Forensics. It demonstrates how captured network traffic can be analyzed to detect unauthorized remote access attempts and improve system security.
+This project is developed for **educational purposes in Network Forensics**. It demonstrates how captured network traffic can be analyzed to detect unauthorized remote access attempts and improve system security.
