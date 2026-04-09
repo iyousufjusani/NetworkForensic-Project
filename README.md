@@ -94,8 +94,9 @@ NetworkForensic-Project/
 │   ├── detect.py
 │   ├── remote_access.pcap
 │
-│── assets/
-│   ├── cover.png
+│── cover.png
+│── NF_PresentationGroup10.pptx (Presentation Slides)
+│── Team10-ReportDocumentation.pdf (Final Report)
 │
 │── README.md
 ```
