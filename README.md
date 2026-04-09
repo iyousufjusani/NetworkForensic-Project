@@ -87,6 +87,8 @@ python3 detect.py
 ---
 
 ## 📁 Project Structure
+
+```
 NetworkForensic-Project/
 │── code/
 │   ├── detect.py
@@ -96,7 +98,9 @@ NetworkForensic-Project/
 │   ├── cover.png
 │
 │── README.md
+```
 
+---
 
 ## 📚 References
 - https://www.wireshark.org
