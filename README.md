@@ -28,8 +28,10 @@ It captures and analyzes network traffic to identify suspicious activities such 
 ---
 
 ## 🧠 System Workflow
-Network Traffic → Capture (Wireshark) → Filter → Analyze (Python) → Detect → Report
 
+```
+Network Traffic → Capture (Wireshark) → Filter → Analyze (Python) → Detect → Report
+```
 
 ---
 
