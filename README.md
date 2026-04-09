@@ -61,16 +61,21 @@ python3 detect.py
 ```
 
 ## 📊 Sample Output
+```
 --- Analysis Result ---
 
 192.168.2.20 → 12 attempts
 104.18.32.47 → 20 attempts
 ⚠️ - Possible brute-force attack from 104.18.32.47
+```
+
+---
 
 ## ⚠️ Error Handling
 - Handles packets without IP or TCP layers
 - Prevents runtime errors using conditional checks
 - Ensures stable packet processing
+  
 ---
 
 ## 🔍 Key Features
