@@ -1,7 +1,7 @@
 # 🔐 Network Forensic Project  
 ### Detecting Unauthorized Remote Access (SSH, RDP, Telnet)
 
-![Project Cover](./assets/cover.png)
+![Project Cover](./cover.png)
 
 ---
 
