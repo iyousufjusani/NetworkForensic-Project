@@ -19,6 +19,6 @@ def detect_brute_force(pcap_file):
         print(f"{ip} → {count} attempts")
 
         if count > 5:
-            print(f"⚠️ - Possible brute-force attack from {ip}\n")
+            print(f"⚠️  Possible brute-force attack from {ip}\n")
 
 detect_brute_force('remote_access.pcap')
